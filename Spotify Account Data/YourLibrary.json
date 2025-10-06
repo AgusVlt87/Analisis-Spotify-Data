@@ -1,0 +1,1824 @@
+{
+  "tracks": [
+    {
+      "artist": "Nas",
+      "album": "Magic 2",
+      "track": "Motion",
+      "uri": "spotify:track:5RIfTKi3UAqBMEJaWKbBnJ"
+    },
+    {
+      "artist": "Tainy",
+      "album": "DATA",
+      "track": "VOLVER",
+      "uri": "spotify:track:1ncGbGufa7aUaJ5zC4YP3y"
+    },
+    {
+      "artist": "Linyeras cru",
+      "album": "Fristail, Birra y Faso",
+      "track": "Villano",
+      "uri": "spotify:track:6cWsN9kreCqeRmICyBitoi"
+    },
+    {
+      "artist": "Pescado Rabioso",
+      "album": "Artaud",
+      "track": "Todas las Hojas Son del Viento",
+      "uri": "spotify:track:689lBKIELtWGHfsPWpR6rv"
+    },
+    {
+      "artist": "Quevedo",
+      "album": "VISTA AL MAR",
+      "track": "VISTA AL MAR",
+      "uri": "spotify:track:7iwJOi3hlMqZt6pj1sQOBj"
+    },
+    {
+      "artist": "Feid",
+      "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+      "track": "XQ Te Pones Así",
+      "uri": "spotify:track:6JUMswocQ7Hp46kj9kyljT"
+    },
+    {
+      "artist": "Hardwe're",
+      "album": "Nick Wiz Presents: Cellar Sounds, Vol. 3: 1992-1998",
+      "track": "Fill in the Blanks",
+      "uri": "spotify:track:2v7ivOm332ZljFnackV50k"
+    },
+    {
+      "artist": "Zion & Lennox",
+      "album": "Blin Blin, Vol. 1",
+      "track": "Que Vas a Hacer",
+      "uri": "spotify:track:2fluIBSYliMwB4OMH9soFP"
+    },
+    {
+      "artist": "Las Pelotas",
+      "album": "La Clave del Éxito (En Vivo)",
+      "track": "Hawai - En Vivo",
+      "uri": "spotify:track:3Hxi7uxnrO1pGnwtEOyUum"
+    },
+    {
+      "artist": "Rels B",
+      "album": "Mejor No Nos Vemos",
+      "track": "Mejor No Nos Vemos",
+      "uri": "spotify:track:6NT4RZ6CF6qFJqslGdqaRM"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "3MEN2 KBRN",
+      "track": "Mala Mía Otra Vez",
+      "uri": "spotify:track:422ogeWJwcQaKyJhsleacY"
+    },
+    {
+      "artist": "Ran Reed",
+      "album": "Respect the Architect: 1992-1998",
+      "track": "Wack Tapes",
+      "uri": "spotify:track:5vDwtLBPBVKtYtvercyv4b"
+    },
+    {
+      "artist": "Nas",
+      "album": "Magic 3",
+      "track": "Superhero Status",
+      "uri": "spotify:track:3Q6ol3nBv6d0s8y9gxC5zS"
+    },
+    {
+      "artist": "Yahritza Y Su Esencia",
+      "album": "Frágil",
+      "track": "Frágil",
+      "uri": "spotify:track:4JdSXF2p71cr8uCY3UiJM0"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease III",
+      "track": "Ghetto Reporter",
+      "uri": "spotify:track:0qHXyED9mnRk3DnXowUe6Y"
+    },
+    {
+      "artist": "Luca Prodan",
+      "album": "Perdedores Hermosos (Remastered 2021)",
+      "track": "Luces Rojas",
+      "uri": "spotify:track:1EV8uyniQt869PlNFvEU9Z"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Supermodel",
+      "uri": "spotify:track:5wTVNpi5WDByxBgKgUE6MU"
+    },
+    {
+      "artist": "Rels B",
+      "album": "Boys Don't Cry",
+      "track": "Baila Más",
+      "uri": "spotify:track:4x8RH1VeL7S74kr7bh5STo"
+    },
+    {
+      "artist": "Queen",
+      "album": "The Game",
+      "track": "Dragon Attack - Remastered 2011",
+      "uri": "spotify:track:32wghPySDJ1mNdqhwW9YMh"
+    },
+    {
+      "artist": "Las Pelotas",
+      "album": "En Vivo en Buenos Aires",
+      "track": "Ya lo sabés - En Vivo en Buenos Aires",
+      "uri": "spotify:track:7cACoGow73vY89jeiAZoIt"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Crack Rock",
+      "uri": "spotify:track:5lcyIeEfwZTs8Ajw3kdF7P"
+    },
+    {
+      "artist": "Drake",
+      "album": "Honestly, Nevermind",
+      "track": "Massive",
+      "uri": "spotify:track:28JBD8p18xNuOfyV7Cotdn"
+    },
+    {
+      "artist": "Drake",
+      "album": "Behind Barz",
+      "track": "Behind Barz - Bonus",
+      "uri": "spotify:track:4B7fTyj1FIPvP9tT5X3DnR"
+    },
+    {
+      "artist": "Jay Wheeler",
+      "album": "Emociones",
+      "track": "Suelta",
+      "uri": "spotify:track:5LitdykQszEnuzIrtGhwPs"
+    },
+    {
+      "artist": "Celsius",
+      "album": "SubSoul, Vol. 2: Deep House, Garage & Bass Music",
+      "track": "Incoming",
+      "uri": "spotify:track:7yEHPyqcDxCXk0iFegfFa1"
+    },
+    {
+      "artist": "Swae Lee",
+      "album": "Won't Be Late (feat. Drake)",
+      "track": "Won't Be Late (feat. Drake)",
+      "uri": "spotify:track:2sqsNXfN0HtgDEgaHXiUTa"
+    },
+    {
+      "artist": "KAYTRANADA",
+      "album": "99.9%",
+      "track": "ONE TOO MANY",
+      "uri": "spotify:track:11jR36qzNpUnQ2YbMrru1p"
+    },
+    {
+      "artist": "Los Piojos",
+      "album": "Verde Paisaje del Infierno",
+      "track": "Media Caña",
+      "uri": "spotify:track:2TNV1bPTWhKTRTVAghIszh"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Voodoo Lounge",
+      "track": "Suck On The Jugular - Remastered",
+      "uri": "spotify:track:4pz9KMfqlxYnhrhvPxVW5T"
+    },
+    {
+      "artist": "Mustafunk",
+      "album": "Salpica",
+      "track": "En tu mirada",
+      "uri": "spotify:track:0o0E3MKqgKBpYrjE3GxJhv"
+    },
+    {
+      "artist": "Feid",
+      "album": "INTER SHIBUYA",
+      "track": "8 DIAX",
+      "uri": "spotify:track:52ZI5nsIiC5Zh6z5ufTYAK"
+    },
+    {
+      "artist": "Soda Stereo",
+      "album": "Dynamo",
+      "track": "Camaleón - Remasterizado 2007",
+      "uri": "spotify:track:4ddGbSuvryKgVIIBjBqGHo"
+    },
+    {
+      "artist": "Tainy",
+      "album": "DATA",
+      "track": "EN VISTO",
+      "uri": "spotify:track:1fFB8ahI0ZwU3X9mimCpjb"
+    },
+    {
+      "artist": "Ronpe 99",
+      "album": "Síntomas",
+      "track": "Armani",
+      "uri": "spotify:track:6oMrcxlh1FIhMX1YR5LtHS"
+    },
+    {
+      "artist": "Dr. Fresch",
+      "album": "Gangsta Party EP",
+      "track": "Kung Fu",
+      "uri": "spotify:track:694l2zv6a2jjUgjz5eyX6g"
+    },
+    {
+      "artist": "Myke Towers",
+      "album": "LA VIDA ES UNA",
+      "track": "LALA",
+      "uri": "spotify:track:7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "artist": "Mobb Deep",
+      "album": "The Infamous",
+      "track": "The Start of Your Ending (41st Side)",
+      "uri": "spotify:track:5DGnlowf1fjT7VWsoeRDlb"
+    },
+    {
+      "artist": "Charly García",
+      "album": "Clics Modernos",
+      "track": "Nuevos Trapos",
+      "uri": "spotify:track:0eChv3249vAoIl9oVlDPSP"
+    },
+    {
+      "artist": "Rels B",
+      "album": "Un Verano En Mallorca",
+      "track": "Un Verano En Mallorca",
+      "uri": "spotify:track:6XchxkE3WuUovo0O50u7SX"
+    },
+    {
+      "artist": "Tony Dize",
+      "album": "Los Vaqueros Wild Wild Mixes",
+      "track": "Quizas - Remix",
+      "uri": "spotify:track:4YFoQUkj0XXJgTiHp8d61y"
+    },
+    {
+      "artist": "Catupecu Machu",
+      "album": "Eso Vive",
+      "track": "Entero O A Pedazos - Live",
+      "uri": "spotify:track:2TKdFfvE8m2hoYHvq2CXcE"
+    },
+    {
+      "artist": "Facundo Majdalani",
+      "album": "Curamev",
+      "track": "Curamev",
+      "uri": "spotify:track:6UhNq8OPW5uuNBeB2SQpfr"
+    },
+    {
+      "artist": "Guasones",
+      "album": "Esclavo",
+      "track": "Como un Lobo",
+      "uri": "spotify:track:7FC5uMdyQyYgN6jpBjgvdK"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "COFFEE BEAN",
+      "uri": "spotify:track:6vnfObZ4Ys70SBAtti1xZ9"
+    },
+    {
+      "artist": "Luca Prodan",
+      "album": "Perdedores Hermosos (Remastered 2021)",
+      "track": "Perdedores Hermosos",
+      "uri": "spotify:track:7p5DHnQEKF5DMbE2ScuogM"
+    },
+    {
+      "artist": "Viejas Locas",
+      "album": "Hermanos De Sangre",
+      "track": "Chico De La Oculta",
+      "uri": "spotify:track:3Jgvqt28Ge1OSKKPLQHpt9"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "SEN2 KBRN VOL. 2",
+      "track": "Te Dijeron",
+      "uri": "spotify:track:53KWPG6uE5DCFwbF9K6qH0"
+    },
+    {
+      "artist": "Nas",
+      "album": "The Lost Tapes",
+      "track": "Black Zombie",
+      "uri": "spotify:track:70d2iOuUBACnfrptEL4qzP"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease II",
+      "track": "Brunch on Sundays (feat. Blxst)",
+      "uri": "spotify:track:6YIDTM6v7m3s4z2jiQm6LA"
+    },
+    {
+      "artist": "Maverick Sabre",
+      "album": "Slow Down (feat. Jorja Smith)",
+      "track": "Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix",
+      "uri": "spotify:track:5PNvgiKSwMdjBsDsgFCFLX"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Some Girls",
+      "track": "Before They Make Me Run - Remastered",
+      "uri": "spotify:track:4cAlWy0jWMtn5AdtZy4dHi"
+    },
+    {
+      "artist": "La Renga",
+      "album": "Detonador de Sueños",
+      "track": "Las Cosas Que Hace",
+      "uri": "spotify:track:7o6SFnvKmZFE5XqM2Sb0Wo"
+    },
+    {
+      "artist": "Serum",
+      "album": "Lumberjack",
+      "track": "Lumberjack",
+      "uri": "spotify:track:2Zd9ICFhHeQzWRd3kUKYJF"
+    },
+    {
+      "artist": "The Beatnuts",
+      "album": "Do You Believe? EP",
+      "track": "Do You Believe? - Instrumental",
+      "uri": "spotify:track:5wB50WI6crBSLs29UZFFCH"
+    },
+    {
+      "artist": "Yampi",
+      "album": "El Yamposo (24 Kilates Edition)",
+      "track": "Amanecio Conmigo",
+      "uri": "spotify:track:2469mAOX2OTdCJwsywxojD"
+    },
+    {
+      "artist": "Ozuna",
+      "album": "Aura",
+      "track": "Supuestamente",
+      "uri": "spotify:track:1ZBU5DSoYQwaZVgep6pfn2"
+    },
+    {
+      "artist": "YSY A",
+      "album": "YSYSMO",
+      "track": "CUÁNTO VALE HACER EL AMOR?",
+      "uri": "spotify:track:2AAiUwUnxOY0sZYRLGkW9H"
+    },
+    {
+      "artist": "Fito Paez",
+      "album": "Giros",
+      "track": "Alguna Vez Voy A Ser Libre",
+      "uri": "spotify:track:4XgTRBW2bQIut4Mq4QbJBJ"
+    },
+    {
+      "artist": "CA7RIEL",
+      "album": "LIVRE",
+      "track": "Para la Forever",
+      "uri": "spotify:track:1SHVzxKP15wAGMhIrhbP3D"
+    },
+    {
+      "artist": "Adam Beyer",
+      "album": "Your Mind",
+      "track": "Your Mind - Radio Edit",
+      "uri": "spotify:track:2zDCZ8jY4kjuUZbVROHaZj"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Talk 2 U",
+      "uri": "spotify:track:1Xm9CQRcJbOgTCpKCpS9s5"
+    },
+    {
+      "artist": "Nas",
+      "album": "It Was Written",
+      "track": "Shootouts",
+      "uri": "spotify:track:6DWdTk7UaZ6LIYYCFvmgX7"
+    },
+    {
+      "artist": "Quevedo",
+      "album": "NANA",
+      "track": "NANA",
+      "uri": "spotify:track:2mgz8ME636F6lYDYDxIz9q"
+    },
+    {
+      "artist": "La Vela Puerca",
+      "album": "A Contraluz",
+      "track": "Un Frasco",
+      "uri": "spotify:track:5DGWMayQKuRfcMyDS2hpsX"
+    },
+    {
+      "artist": "Jorja Smith",
+      "album": "High",
+      "track": "High",
+      "uri": "spotify:track:30cTrVY28P6ufiRk84k3Ut"
+    },
+    {
+      "artist": "Masta Ace",
+      "album": "A Long Hot Summer",
+      "track": "Da Grind (Featuring Apocalypse)",
+      "uri": "spotify:track:2ouC5Zp9p98n6kAsXarudl"
+    },
+    {
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "track": "Love All (with JAY-Z)",
+      "uri": "spotify:track:4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "artist": "Feid",
+      "album": "FERXXO",
+      "track": "RELXJXTE",
+      "uri": "spotify:track:0eI8yxgCGbguwbK26n22RQ"
+    },
+    {
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "track": "Deep Pockets",
+      "uri": "spotify:track:3IvMYBE7A3c7to1aEcfFJk"
+    },
+    {
+      "artist": "Divididos",
+      "album": "Acariciando Lo Aspero",
+      "track": "¿Qué Tal?",
+      "uri": "spotify:track:3UZTKmqf8w64igBFK9hNC4"
+    },
+    {
+      "artist": "YSY A",
+      "album": "YSYSMO",
+      "track": "A POR TODO",
+      "uri": "spotify:track:5w8dx6u3KGawHWZAJoqyKM"
+    },
+    {
+      "artist": "Serú Girán",
+      "album": "La Grasa de las Capitales: Edición 40º Aniversario",
+      "track": "Viernes, 3AM - 2019 Remasterizado",
+      "uri": "spotify:track:6zjME4Vo9ze9Uk4t9kUMJZ"
+    },
+    {
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "track": "War",
+      "uri": "spotify:track:1I55Ea0zVoSKs6MqW7DQ3i"
+    },
+    {
+      "artist": "Don Osvaldo",
+      "album": "Flor de ceibo",
+      "track": "Necesidades",
+      "uri": "spotify:track:17wmnRy0oGlk0GJu7kENG9"
+    },
+    {
+      "artist": "Myke Towers",
+      "album": "LA VIDA ES UNA",
+      "track": "MUNDO CRUEL",
+      "uri": "spotify:track:4EuHUvcXfXxb0rYBgmN413"
+    },
+    {
+      "artist": "Myke Towers",
+      "album": "LA VIDA ES UNA",
+      "track": "CAMA KING (feat. Chita)",
+      "uri": "spotify:track:1EOyHhh5uOwNrDhiUNnH2u"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "One Hot Minute",
+      "track": "Aeroplane",
+      "uri": "spotify:track:0VLdJcQUsqHBBwqPp4CIKJ"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "Sol María",
+      "track": "Luchas Mentales",
+      "uri": "spotify:track:1f70ywNtUyw4VgckqXeuOv"
+    },
+    {
+      "artist": "Sonder",
+      "album": "Too Late To Die Young",
+      "track": "Mad Riches",
+      "uri": "spotify:track:0vA6Nhloi5UX2jmqX5Tvk9"
+    },
+    {
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "track": "Desires (with Future)",
+      "uri": "spotify:track:7eYAHC0RbBF9eaqWzT34Aq"
+    },
+    {
+      "artist": "Callejeros",
+      "album": "Disco Escultura",
+      "track": "Rehén",
+      "uri": "spotify:track:56UeWPRxX8QJh0VZ4kSyPX"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease III",
+      "track": "Thun",
+      "uri": "spotify:track:6tSemeCMDHYp5gqmKDJcn2"
+    },
+    {
+      "artist": "Quevedo",
+      "album": "Planteamiento Erróneo",
+      "track": "Planteamiento Erróneo",
+      "uri": "spotify:track:3bWRxb5rFHlmxo7mwDPNsO"
+    },
+    {
+      "artist": "Patricio Rey y sus Redonditos de Ricota",
+      "album": "Cordero Atado",
+      "track": "Etiqueta Negra",
+      "uri": "spotify:track:6XaH8Mw8EvzVrFQ5ww5rLm"
+    },
+    {
+      "artist": "Tainy",
+      "album": "DEJA VU",
+      "track": "DEJA VU",
+      "uri": "spotify:track:2BfkUFn2EbEKYOMkm90HuP"
+    },
+    {
+      "artist": "Bryant Myers",
+      "album": "La Oscuridad",
+      "track": "Triste",
+      "uri": "spotify:track:7narbj6zkSW1SnMhAPep0u"
+    },
+    {
+      "artist": "Jugo",
+      "album": "Bocina de Avión",
+      "track": "Bocina de Avión",
+      "uri": "spotify:track:0zvIOvOMblBGPR2fOK0MQV"
+    },
+    {
+      "artist": "Nas",
+      "album": "Big Nas (Original Song from Masterclass)",
+      "track": "Big Nas (Original Song from MasterClass)",
+      "uri": "spotify:track:0GIZWL2QckGkBdxfCQMVFA"
+    },
+    {
+      "artist": "Jay Wheeler",
+      "album": "Emociones",
+      "track": "Carro Nuevo",
+      "uri": "spotify:track:0OLLQD6ujaoOWnO6AbjV9W"
+    },
+    {
+      "artist": "Subsonic",
+      "album": "Love",
+      "track": "Love",
+      "uri": "spotify:track:0v9AdU2DkZTwqO4tm4e2q1"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views",
+      "track": "Hype",
+      "uri": "spotify:track:5NFYuqu8V6QXc6mzcLImd6"
+    },
+    {
+      "artist": "Los del Fuego",
+      "album": "En Rimbo",
+      "track": "Un día Sin Ti - En Vivo",
+      "uri": "spotify:track:7txlKwjYnfpBtjhMPfOaky"
+    },
+    {
+      "artist": "Los Piojos",
+      "album": "Máquina de Sangre",
+      "track": "Sudestada",
+      "uri": "spotify:track:3hqXaHDVkZceEL1eSx4t0D"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Larger Than Life",
+      "track": "Best Time",
+      "uri": "spotify:track:1zgHn1EqUyA0HqNYMdJ5ia"
+    },
+    {
+      "artist": "DJ Zinc",
+      "album": "Gammy Elbow",
+      "track": "Gammy Elbow",
+      "uri": "spotify:track:4R1ucIN3cgWBcHxbeSmgzB"
+    },
+    {
+      "artist": "Chemical Surf",
+      "album": "Pararam",
+      "track": "Pararam",
+      "uri": "spotify:track:0eCiCbHblFYUFzWD7TU8fl"
+    },
+    {
+      "artist": "Nas",
+      "album": "Life Is Good",
+      "track": "The Don",
+      "uri": "spotify:track:4PZ1FyZW38n1aQDEU4YLDT"
+    },
+    {
+      "artist": "JHAYCO",
+      "album": "Famouz Reloaded",
+      "track": "Subiendo De Nivel - Remix",
+      "uri": "spotify:track:2kvGoSGHWI0uvjJlooy1AQ"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Some Girls",
+      "track": "Beast Of Burden - Remastered 1994",
+      "uri": "spotify:track:77oU2rjC5XbjQfNe3bD6so"
+    },
+    {
+      "artist": "Babasonicos",
+      "album": "Anoche",
+      "track": "Carismático",
+      "uri": "spotify:track:0JEoezwc786AUMKs2CBQRI"
+    },
+    {
+      "artist": "Serú Girán",
+      "album": "La Grasa de las Capitales: Edición 40º Aniversario",
+      "track": "La Grasa de las Capitales - 2019 Remasterizado",
+      "uri": "spotify:track:13dtguSlp2rssEcyxUyZVC"
+    },
+    {
+      "artist": "Soundgarden",
+      "album": "Superunknown",
+      "track": "Spoonman",
+      "uri": "spotify:track:5sKSgf4p72uPTCY5qBvJoE"
+    },
+    {
+      "artist": "Young Stoner Life",
+      "album": "Slime Language 2",
+      "track": "Solid (feat. Drake)",
+      "uri": "spotify:track:6rTInqW3YECMkQsBEHw4sd"
+    },
+    {
+      "artist": "YSY A",
+      "album": "TRAP DE VERDAD",
+      "track": "OTRA NOCHE",
+      "uri": "spotify:track:1JszOi9nTXFR5gxFyczhEw"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "album": "Mother's Milk",
+      "track": "Higher Ground - Remastered 2003",
+      "uri": "spotify:track:5arVt2Wg0zbiWwAOZef2Nl"
+    },
+    {
+      "artist": "YSY A",
+      "album": "MORDIENDO EL BOZAL",
+      "track": "MORDIENDO EL BOZAL",
+      "uri": "spotify:track:6NnqP2DazV1Q1mqmV1JNYC"
+    },
+    {
+      "artist": "Damas Gratis",
+      "album": "Si Te Vas (Vivo)",
+      "track": "Si Te Vas - Vivo",
+      "uri": "spotify:track:4v17MVpCUu5l2p0mSlw8PK"
+    },
+    {
+      "artist": "Dire Straits",
+      "album": "Dire Straits",
+      "track": "Sultans Of Swing",
+      "uri": "spotify:track:37Tmv4NnfQeb0ZgUC4fOJj"
+    },
+    {
+      "artist": "MC Vitinho Avassalador",
+      "album": "Bandido Não Namora",
+      "track": "Bandido Não Namora",
+      "uri": "spotify:track:1ZoobI2uDDF9xIgRnwxxOs"
+    },
+    {
+      "artist": "KEVIN ROLDAN",
+      "album": "Bofff",
+      "track": "Cuando Quieras",
+      "uri": "spotify:track:486ovkulRkOhFnIbgUVSPK"
+    },
+    {
+      "artist": "Conrado",
+      "album": "Vista Al Marq",
+      "track": "Vista Al Marq",
+      "uri": "spotify:track:3d6DnjizjQlm6FZ0rJHY1M"
+    },
+    {
+      "artist": "Feels Right",
+      "album": "Rocío de La Mañana",
+      "track": "Rocío de La Mañana",
+      "uri": "spotify:track:4oDlwCIMcXr09mPjVM4MGN"
+    },
+    {
+      "artist": "La Mississippi",
+      "album": "Yo estuve ahi",
+      "track": "Un Trago Para Ver Mejor",
+      "uri": "spotify:track:3yl5zNR1S4aJaCCwVoAGSZ"
+    },
+    {
+      "artist": "MC Rick",
+      "album": "Me Jogou no Lixo",
+      "track": "Me Jogou no Lixo",
+      "uri": "spotify:track:1zm82sTS5wVSyOp1Zxo45U"
+    },
+    {
+      "artist": "Viejas Locas",
+      "album": "Especial",
+      "track": "Excusas",
+      "uri": "spotify:track:1rugFNmLTK1nDXtvojJuGz"
+    },
+    {
+      "artist": "Nas",
+      "album": "Magic 2",
+      "track": "One Mic, One Gun",
+      "uri": "spotify:track:6UAFvSKQd81V0fFlC8bHEW"
+    },
+    {
+      "artist": "PEACE MAKER!",
+      "album": "Isolation",
+      "track": "Isolation",
+      "uri": "spotify:track:3CU9bg093XVjeFMUjl21p2"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease III",
+      "track": "Michael & Quincy",
+      "uri": "spotify:track:5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "artist": "Myke Towers",
+      "album": "LYKE MIIKE",
+      "track": "CON ÉL",
+      "uri": "spotify:track:622l31iIv1rmd46OlW9r3m"
+    },
+    {
+      "artist": "LL COOL J",
+      "album": "Mama Said Knock You Out",
+      "track": "Mama Said Knock You Out",
+      "uri": "spotify:track:6C7ZgThn6Yan5MTZdAEEFw"
+    },
+    {
+      "artist": "Nautilus",
+      "album": "Nick Wiz Presents: Cellar Sounds, Vol. 4: 1992-1998",
+      "track": "Hennessy",
+      "uri": "spotify:track:65Kd0ySrmxdQfRCk88FsJk"
+    },
+    {
+      "artist": "Divididos",
+      "album": "Gol De Mujer",
+      "track": "Luca",
+      "uri": "spotify:track:5xYsl6Mk0J33WvDonRKFYU"
+    },
+    {
+      "artist": "La Renga",
+      "album": "Despedazado Por Mil Partes",
+      "track": "Lo Frágil De La Locura",
+      "uri": "spotify:track:53LovEbSOlvxq2qj8EMWub"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Beltway",
+      "uri": "spotify:track:4q91GjZYQAZWICmRaOu04F"
+    },
+    {
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "track": "Way 2 Sexy (with Future & Young Thug)",
+      "uri": "spotify:track:0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "artist": "Philip George",
+      "album": "Losing My Mind",
+      "track": "Losing My Mind - Mandal & Forbes Remix",
+      "uri": "spotify:track:0rkVQ8MzzfX40xtNkC6hjA"
+    },
+    {
+      "artist": "Lightnin' Hopkins",
+      "album": "Double Blues",
+      "track": "Rocky Mountain Blues",
+      "uri": "spotify:track:2LsaGF8Buz1er9zDlWEuqX"
+    },
+    {
+      "artist": "Drake",
+      "album": "Scorpion",
+      "track": "Emotionless",
+      "uri": "spotify:track:1v1IXPXl73Z7zy6f5tUa9n"
+    },
+    {
+      "artist": "SG Lewis",
+      "album": "Dusk",
+      "track": "Aura",
+      "uri": "spotify:track:4qEEERg5kM60N2vcna11oq"
+    },
+    {
+      "artist": "Diamante Ayala",
+      "album": "Descapo",
+      "track": "Corvette",
+      "uri": "spotify:track:2COQEhWkjoTsemIWAcoJcU"
+    },
+    {
+      "artist": "Matador",
+      "album": "Model 10",
+      "track": "Model 10",
+      "uri": "spotify:track:7Lg2AwnvYUD74gUrcWoULk"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Dirty Deeds Done Dirt Cheap - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+      "uri": "spotify:track:0q3cKVAjGC0NqmkcEcQDy8"
+    },
+    {
+      "artist": "Los Cafres",
+      "album": "25 Años de Música",
+      "track": "Imposible - Versión 25 Años",
+      "uri": "spotify:track:3MNAqtaZyWQjwRjoup22BU"
+    },
+    {
+      "artist": "Don Osvaldo",
+      "album": "Casi Justicia Social II",
+      "track": "Barrilete",
+      "uri": "spotify:track:5SCqPxHp7cpVOrodiVAS8B"
+    },
+    {
+      "artist": "Junior H",
+      "album": "Corridos Tumbados",
+      "track": "Disfruto Lo Malo",
+      "uri": "spotify:track:7LH2UUuyMHt7035PLZQ8wx"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease",
+      "track": "Car #85 (feat. Charlie Wilson)",
+      "uri": "spotify:track:1oQLzryECAAeX7GmddL6jn"
+    },
+    {
+      "artist": "Rels B",
+      "album": "No Sabe Igual",
+      "track": "No Sabe Igual",
+      "uri": "spotify:track:6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Too Much",
+      "uri": "spotify:track:5LnXWeA9tuWKI2C1H74iiJ"
+    },
+    {
+      "artist": "Michael Bibi",
+      "album": "Got The Fire EP",
+      "track": "Got The Fire",
+      "uri": "spotify:track:6FzTK4thuT68kM23BLFjTo"
+    },
+    {
+      "artist": "OVEOUS",
+      "album": "Queimar",
+      "track": "Queimar",
+      "uri": "spotify:track:1WOzaWVIPE3z2gaBu1yQtk"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "Sol María",
+      "track": "Sonrisa",
+      "uri": "spotify:track:3MbbbpxLOnWUCpzS6hRN4e"
+    },
+    {
+      "artist": "Nas",
+      "album": "NASIR",
+      "track": "Adam and Eve",
+      "uri": "spotify:track:0BSPhsCKfwENstErymcD80"
+    },
+    {
+      "artist": "Junior H",
+      "album": "Atrapado en un Sueño",
+      "track": "Mente Positiva",
+      "uri": "spotify:track:3WQilym5Vi4ypxb70vx0eY"
+    },
+    {
+      "artist": "Chris Lorenzo",
+      "album": "Shutdown",
+      "track": "Shutdown",
+      "uri": "spotify:track:5jntpXf0A5tskZeizEsA5Q"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "The Language",
+      "uri": "spotify:track:5dHpbFmZjWucrol0M7aNGU"
+    },
+    {
+      "artist": "Homer El Mero Mero",
+      "album": "703",
+      "track": "703",
+      "uri": "spotify:track:1QeDhso6KwZL3BqQq6owrr"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease II",
+      "track": "Store Run",
+      "uri": "spotify:track:1cWBj8RoxMypqpOtyHSfVN"
+    },
+    {
+      "artist": "Feid",
+      "album": "FERXXOCALIPSIS",
+      "track": "50 PALOS",
+      "uri": "spotify:track:2FhmPPAersOD9YcQ9v8upy"
+    },
+    {
+      "artist": "Method Man",
+      "album": "4:21...The Day After",
+      "track": "Got To Have It",
+      "uri": "spotify:track:1JkrWCnQrSZpNRxpAMXzlW"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease III",
+      "track": "Reminisce",
+      "uri": "spotify:track:3iGOhMMCQ2nOMkra3Bpo0f"
+    },
+    {
+      "artist": "YSY A",
+      "album": "YSYSMO",
+      "track": "TODO PAGO",
+      "uri": "spotify:track:4IDRYddYWDSt4OTKOo6P0t"
+    },
+    {
+      "artist": "Jay Wheeler",
+      "album": "Emociones",
+      "track": "Trago Amargo",
+      "uri": "spotify:track:7w4TLIDPi70v4Gvjt0Spou"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "Que Cojones",
+      "track": "Que Cojones",
+      "uri": "spotify:track:22TyikLrwsaXhsL31mewls"
+    },
+    {
+      "artist": "Callejeros",
+      "album": "Disco Escultura",
+      "track": "Lo Que Hay",
+      "uri": "spotify:track:4XdRGdkWjyf2L90UFe0wpz"
+    },
+    {
+      "artist": "Nas",
+      "album": "It Was Written",
+      "track": "Watch Dem Niggas (feat. Foxy Brown)",
+      "uri": "spotify:track:2dJwnskDT5AHUso6o1Acnp"
+    },
+    {
+      "artist": "Andrés Calamaro",
+      "album": "El cantante",
+      "track": "La libertad",
+      "uri": "spotify:track:0GsrCqY85MiNrfyaXSrPZE"
+    },
+    {
+      "artist": "Charly García",
+      "album": "Influencia",
+      "track": "Influencia",
+      "uri": "spotify:track:7B8W8kfQwcVubGo2EGosID"
+    },
+    {
+      "artist": "Jomson",
+      "album": "Flavor",
+      "track": "The Kid with da Flava",
+      "uri": "spotify:track:6wwwufIS7W7EVmLUqa3q6b"
+    },
+    {
+      "artist": "Myke Towers",
+      "album": "LA VIDA ES UNA",
+      "track": "LO QUE PIDE",
+      "uri": "spotify:track:3LlFkrG9XT36U0dxiD6e0b"
+    },
+    {
+      "artist": "Shrlock",
+      "album": "For What It Was (Radio Edit)",
+      "track": "For What It Was - Radio Edit",
+      "uri": "spotify:track:4sX4tJ8wJM2tyuEewdG26u"
+    },
+    {
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "track": "Time Flies",
+      "uri": "spotify:track:5H4mXWKcicuLKDn4Jy0sK7"
+    },
+    {
+      "artist": "Charly García",
+      "album": "Cuarenta Obras Fundamentales",
+      "track": "No Soy Un Extraño",
+      "uri": "spotify:track:0kIQySIfoPG5LGYCipenE3"
+    },
+    {
+      "artist": "YSY A",
+      "album": "YSYSMO",
+      "track": "UOH OH OH",
+      "uri": "spotify:track:2LhnFINENqZgFnLIlChHzw"
+    },
+    {
+      "artist": "Feid",
+      "album": "Ron",
+      "track": "Ron - Remix",
+      "uri": "spotify:track:04x4Urpge2kG9uDGdHRsdc"
+    },
+    {
+      "artist": "Duki",
+      "album": "Desde el Fin del Mundo",
+      "track": "Chico Estrella",
+      "uri": "spotify:track:1XadOBWghF0LhMuXI4GJ6M"
+    },
+    {
+      "artist": "Macky Gee",
+      "album": "Tour",
+      "track": "Tour",
+      "uri": "spotify:track:1Mze7crzF9BWo82DiAsmjj"
+    },
+    {
+      "artist": "Reggaeton bachata Hit",
+      "album": "Zapateo Loco",
+      "track": "Esto Apenas Comienza - Guaracha Zapateo & Aleteo",
+      "uri": "spotify:track:1eEgQmUjdul2zs9jtgdMZF"
+    },
+    {
+      "artist": "Herbie Hancock",
+      "album": "Monster",
+      "track": "Stars in Your Eyes",
+      "uri": "spotify:track:4NPRjmKCMTjLdJ2EjT3etb"
+    },
+    {
+      "artist": "YSY A",
+      "album": "YSYSMO",
+      "track": "CUÁNTOS TÉRMINOS?",
+      "uri": "spotify:track:2zUsObw2UB1AJv0CB3oYl8"
+    },
+    {
+      "artist": "Dosh",
+      "album": "Guataqui",
+      "track": "Guataqui - Flo Dosh Remix",
+      "uri": "spotify:track:1Whq5PzDHie78rKbf88zpo"
+    },
+    {
+      "artist": "Ricardo Iorio",
+      "album": "Ayer Deseo Hoy Realidad",
+      "track": "Ritmo y Blues Con Armonicas",
+      "uri": "spotify:track:6E78mLTxvTcIYSZf583kgx"
+    },
+    {
+      "artist": "Jay Wheeler",
+      "album": "Emociones",
+      "track": "Caracol",
+      "uri": "spotify:track:1QDXGLJaZKFYLSCk6MM1rn"
+    },
+    {
+      "artist": "Pappo's Blues",
+      "album": "Pappo's Blues, Vol. 3",
+      "track": "Sucio y Desprolijo",
+      "uri": "spotify:track:4gyVO49rTCm0JsSbKMqSxX"
+    },
+    {
+      "artist": "YSY A",
+      "album": "YSYSMO",
+      "track": "UN PISO MÁS",
+      "uri": "spotify:track:6Rsryyrp2tB4t0f8c60bGm"
+    },
+    {
+      "artist": "Aaron May",
+      "album": "Outside Lookin In",
+      "track": "What It Take",
+      "uri": "spotify:track:4Gzc8oHnRssN3YVGcT3Z4P"
+    },
+    {
+      "artist": "Nas",
+      "album": "Magic 2",
+      "track": "Slow it Down",
+      "uri": "spotify:track:2oOMMKZV7SmCLdjALkOgkA"
+    },
+    {
+      "artist": "Don Osvaldo",
+      "album": "Flor de ceibo",
+      "track": "Un demonio",
+      "uri": "spotify:track:3Zzt44tm81rStbtNWznUo2"
+    },
+    {
+      "artist": "Intoxicados",
+      "album": "Buen Dia",
+      "track": "El Rey",
+      "uri": "spotify:track:7pD3i9qZggLq6aS29NnEj3"
+    },
+    {
+      "artist": "Los Cafres",
+      "album": "El Paso Gigante",
+      "track": "Casi q' me pierdo",
+      "uri": "spotify:track:0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "track": "You Only Live Twice (with Lil Wayne & Rick Ross)",
+      "uri": "spotify:track:50ceCGZ3oD3U5caQV5bP6f"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Bridges To Babylon",
+      "track": "Low Down - Remastered",
+      "uri": "spotify:track:5sbfd5DYBkRxcTLIlzmGGa"
+    },
+    {
+      "artist": "KVSH",
+      "album": "Sicko Drop",
+      "track": "Sicko Drop",
+      "uri": "spotify:track:5T4lERmPqhO2ukZoGJ5sSr"
+    },
+    {
+      "artist": "YSY A",
+      "album": "YSYSMO",
+      "track": "RELOJES REVENTADOS",
+      "uri": "spotify:track:3WHBTuOibN5pPTiz9eyUpA"
+    },
+    {
+      "artist": "Kapanga",
+      "album": "Todo Es Poco",
+      "track": "Postal",
+      "uri": "spotify:track:4rS66iKCLms3yumMYACKwJ"
+    },
+    {
+      "artist": "Feid",
+      "album": "PURRITO APA",
+      "track": "PURRITO APA",
+      "uri": "spotify:track:4e54PAuILqrhjr2ryuMvdq"
+    },
+    {
+      "artist": "Dj Guuga",
+      "album": "Vidrado Em Você",
+      "track": "Vidrado Em Você",
+      "uri": "spotify:track:2kOmW169C7UV4SZDN9u0YO"
+    },
+    {
+      "artist": "Charly García",
+      "album": "Tango",
+      "track": "Pasajera en Trance",
+      "uri": "spotify:track:68Pz2XleHmce26jXoP03RG"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Fuck The World",
+      "track": "Clouded",
+      "uri": "spotify:track:2J6OF7CkpdQGSfm1wdclqn"
+    },
+    {
+      "artist": "Rels B",
+      "album": "King Flakk",
+      "track": "King Flakk",
+      "uri": "spotify:track:0Ea9DDc9ypH8XjYNB1uD2n"
+    },
+    {
+      "artist": "Drake",
+      "album": "Honestly, Nevermind",
+      "track": "Calling My Name",
+      "uri": "spotify:track:7sT7kZEYd1MrmzLLIRVZas"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease II",
+      "track": "Nobody (feat. Ms. Lauryn Hill)",
+      "uri": "spotify:track:1W7gmQ7AgRMIUthrV0OD0h"
+    },
+    {
+      "artist": "Rels B",
+      "album": "A Mí",
+      "track": "A Mí",
+      "uri": "spotify:track:7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "artist": "Rauw Alejandro",
+      "album": "SATURNO",
+      "track": "LEJOS DEL CIELO",
+      "uri": "spotify:track:0r5g8mAptDMwHbvRDJYIPW"
+    },
+    {
+      "artist": "Linyeras cru",
+      "album": "Fristail, Birra y Faso",
+      "track": "Jugador Distinto",
+      "uri": "spotify:track:0bY8fRqTkZJc2aO63mQ3gn"
+    },
+    {
+      "artist": "Classmatic",
+      "album": "El Primer Corazón EP",
+      "track": "El Primer Corazón",
+      "uri": "spotify:track:6Isojh4WEaeEyyu9j2H4Sa"
+    },
+    {
+      "artist": "Tems",
+      "album": "These Days",
+      "track": "These Days",
+      "uri": "spotify:track:42KrZrk0IG0zFPzVkRNqh0"
+    },
+    {
+      "artist": "Foreign Teck",
+      "album": "Conexión",
+      "track": "Conexión",
+      "uri": "spotify:track:2fpKvUg9hxiKAOLuwfEdlJ"
+    },
+    {
+      "artist": "Pink Floyd",
+      "album": "The Wall",
+      "track": "Young Lust",
+      "uri": "spotify:track:3xGJuHvSxFJxxYlHj5BIoT"
+    },
+    {
+      "artist": "Divididos",
+      "album": "Divididos en Vélez - Agradecer y Seguir",
+      "track": "Ala Delta",
+      "uri": "spotify:track:4qpoFV9UzjKbc3Nl2RDQn4"
+    },
+    {
+      "artist": "Los Piojos",
+      "album": "Chac Tu Chac",
+      "track": "Los Mocosos",
+      "uri": "spotify:track:0HWl5yLicSAtx227qb7ygB"
+    },
+    {
+      "artist": "Otto Knows",
+      "album": "House Party",
+      "track": "Million Voices",
+      "uri": "spotify:track:2STxnMmJC6Bc1xFj0WMRVD"
+    },
+    {
+      "artist": "Feid",
+      "album": "FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM",
+      "track": "Lady Mi Amor",
+      "uri": "spotify:track:30Xh83fw03PZ2Wfm36H4EZ"
+    },
+    {
+      "artist": "Tems",
+      "album": "For Broken Ears",
+      "track": "Ice T",
+      "uri": "spotify:track:4vcUf8YqLi1mDeT9c0Wo6f"
+    },
+    {
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "track": "Losses",
+      "uri": "spotify:track:6fLVTVaHWaEfVKfEgbkf4D"
+    },
+    {
+      "artist": "Sumo",
+      "album": "Llegando Los Monos",
+      "track": "Heroína",
+      "uri": "spotify:track:7ERzS9KIggtCp9oslPzEc0"
+    },
+    {
+      "artist": "NAFTA",
+      "album": "NAFTA II",
+      "track": "Quiero Verte",
+      "uri": "spotify:track:6ttYXJAIwZlgxk3ASLDMmQ"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Live Licks",
+      "track": "Beast Of Burden - Live Licks Tour - 2009 Re-Mastered Digital Version",
+      "uri": "spotify:track:7p0BTJ45XillX6ikIMFGGv"
+    },
+    {
+      "artist": "Myke Towers",
+      "album": "Easy Money Baby",
+      "track": "Funeral",
+      "uri": "spotify:track:1Q5veUVWf7OT9xjh1PZKOw"
+    },
+    {
+      "artist": "Madvillain",
+      "album": "Madvillainy",
+      "track": "Bistro",
+      "uri": "spotify:track:4kSYZCV2qlTpCPu0NnMoSR"
+    },
+    {
+      "artist": "Willy Crook",
+      "album": "Big Bombo Mamma",
+      "track": "Rock Revenge",
+      "uri": "spotify:track:0oX6hfhQ2hC4wwxWE9sFdh"
+    },
+    {
+      "artist": "Gabriel Prajsnar",
+      "album": "Sigue el Rock N' Roll",
+      "track": "Sigue el Rock N' Roll",
+      "uri": "spotify:track:1liVTW0AhPQVNATnUqyuB1"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "Sol María",
+      "track": "Tu Ritmo",
+      "uri": "spotify:track:7JArcReBGffsbhMaosvQR0"
+    },
+    {
+      "artist": "Ferrodj",
+      "album": "Malibu de Cocox",
+      "track": "Malibu de Cocox",
+      "uri": "spotify:track:3Sh0LW1xBQGxkZbXPXg7mm"
+    },
+    {
+      "artist": "Mustafunk",
+      "album": "Salpica",
+      "track": "Mr. Lewis",
+      "uri": "spotify:track:4Q2gS9K2ZfX34RBtcw0gVk"
+    },
+    {
+      "artist": "JOHN ELLE",
+      "album": "Aqui las Colombianas",
+      "track": "Aqui las Colombianas",
+      "uri": "spotify:track:0gCUBLmHnhWumLVzwLLavf"
+    },
+    {
+      "artist": "Special Request",
+      "album": "Curtain Twitcher",
+      "track": "Curtain Twitcher - Nina Kraviz Alice Was Here Remix",
+      "uri": "spotify:track:1kbkpMxR2IIEuO7RW86yjM"
+    },
+    {
+      "artist": "AC/DC",
+      "album": "Live at River Plate",
+      "track": "Highway to Hell - Live at River Plate Stadium, Buenos Aires, Argentina - December 2009",
+      "uri": "spotify:track:7vTCGXUv3XOKScExgMtmel"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "CALL ME IF YOU GET LOST",
+      "track": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+      "uri": "spotify:track:5B0kgjHULYJhAQkK5XsMoC"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "album": "Led Zeppelin IV",
+      "track": "Rock and Roll - Remaster",
+      "uri": "spotify:track:4PRGxHpCpF2yoOHYKQIEwD"
+    },
+    {
+      "artist": "Majid Jordan",
+      "album": "Wildest Dreams",
+      "track": "Stars Align (with Drake)",
+      "uri": "spotify:track:2lBExcAjBgX7Jb480goU9B"
+    },
+    {
+      "artist": "Soda Stereo",
+      "album": "Dynamo",
+      "track": "Luna Roja - Remasterizado 2007",
+      "uri": "spotify:track:0MHENKo7srNABaALyzrYlX"
+    },
+    {
+      "artist": "La Renga",
+      "album": "Despedazado Por Mil Partes",
+      "track": "El Viento Que Todo Empuja",
+      "uri": "spotify:track:4yNI7R3ZDny0VCfFF0BkL0"
+    },
+    {
+      "artist": "MAVI",
+      "album": "Let the Sun Talk",
+      "track": "Love, of Money",
+      "uri": "spotify:track:2XILilAwcXHdGwZLNHteue"
+    },
+    {
+      "artist": "Nas",
+      "album": "Greatest Hits",
+      "track": "Surviving The Times",
+      "uri": "spotify:track:1GH3ytGfW3JhvnMqVXhsI3"
+    },
+    {
+      "artist": "Jude & Frank",
+      "album": "La Tarde",
+      "track": "La Tarde",
+      "uri": "spotify:track:1jny0xjkmeZiS2CvuJLuRX"
+    },
+    {
+      "artist": "Jay Wheeler",
+      "album": "Platónico",
+      "track": "Dime Que Sí",
+      "uri": "spotify:track:664N81BanO9zNURGi2iliG"
+    },
+    {
+      "artist": "Drake",
+      "album": "Honestly, Nevermind",
+      "track": "A Keeper",
+      "uri": "spotify:track:0nAZGkBGKQCXyaoSJfRhC1"
+    },
+    {
+      "artist": "Drake",
+      "album": "Signs",
+      "track": "Signs",
+      "uri": "spotify:track:6Na5uKk5SsqZimk0hAWo8y"
+    },
+    {
+      "artist": "Charly García",
+      "album": "Filosofía Barata y Zapatos de Goma",
+      "track": "Me Siento Mucho Mejor",
+      "uri": "spotify:track:3C5OdJjudhoDye8E5mU3nI"
+    },
+    {
+      "artist": "Guasones",
+      "album": "Locales Calientes",
+      "track": "Una Razón",
+      "uri": "spotify:track:2ELCexnxeQbeS5DzsWShKM"
+    },
+    {
+      "artist": "Viejas Locas",
+      "album": "Viejas Locas",
+      "track": "Botella",
+      "uri": "spotify:track:1JYWzxV47YVQ507nHxtlf9"
+    },
+    {
+      "artist": "Pescado Rabioso",
+      "album": "Lo Mejor de Pescado Rabioso",
+      "track": "Post-Crucifixion",
+      "uri": "spotify:track:2ri0lTjVeBkWAmRVkJoHXL"
+    },
+    {
+      "artist": "Soundgarden",
+      "album": "Superunknown",
+      "track": "My Wave",
+      "uri": "spotify:track:6ox3xc5CNTDQiAINfzP8Zw"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Emotional Rescue",
+      "track": "Emotional Rescue - Remastered 2009",
+      "uri": "spotify:track:5IATbFZds3cbOx8YxuMuko"
+    },
+    {
+      "artist": "Rels B",
+      "album": "LA ISLA LP",
+      "track": "Yo Tengo Un Ángel",
+      "uri": "spotify:track:13hojycbY3re8lzGgLv3jV"
+    },
+    {
+      "artist": "Divididos",
+      "album": "Gol De Mujer",
+      "track": "Nene de Antes",
+      "uri": "spotify:track:0VZpqCugL1y5mBGPkw0foP"
+    },
+    {
+      "artist": "Joshwa",
+      "album": "Magalenha",
+      "track": "Magalenha",
+      "uri": "spotify:track:67UgMiTgtwjGFoiACzup1g"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease III",
+      "track": "30",
+      "uri": "spotify:track:0ANy8lwyUDIfWvLZy6g9qd"
+    },
+    {
+      "artist": "Drake",
+      "album": "Certified Lover Boy",
+      "track": "F*****g Fans",
+      "uri": "spotify:track:3RkNXZvOSMMElmmXztDc94"
+    },
+    {
+      "artist": "Raffa Fl",
+      "album": "Suerte",
+      "track": "Suerte",
+      "uri": "spotify:track:3wAeV5YnVopXm4jynlfJQr"
+    },
+    {
+      "artist": "Soda Stereo",
+      "album": "Dynamo",
+      "track": "Secuencia Inicial - Remasterizado 2007",
+      "uri": "spotify:track:2fbNuOkVZWhccPEqnuxXvk"
+    },
+    {
+      "artist": "Home Brew",
+      "album": "Home Brew",
+      "track": "Alcoholic",
+      "uri": "spotify:track:48nawvyIqIplkaCMICQ0KR"
+    },
+    {
+      "artist": "Willy Crook",
+      "album": "Big Bombo Mamma",
+      "track": "If You",
+      "uri": "spotify:track:3FTmkHSAFhWAiI2fYxNeRq"
+    },
+    {
+      "artist": "Nas & Damian \"Jr. Gong\" Marley",
+      "album": "Distant Relatives",
+      "track": "Friends",
+      "uri": "spotify:track:4RyGQrUjthQLZh7iIjJpHQ"
+    },
+    {
+      "artist": "Gang Starr",
+      "album": "Moment Of Truth",
+      "track": "My Advice 2 You",
+      "uri": "spotify:track:3RJdwyIp02q99eXzmLSMos"
+    },
+    {
+      "artist": "Nas",
+      "album": "King's Disease II",
+      "track": "Rare",
+      "uri": "spotify:track:465eCPwUAz2qz7IdQaxUui"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "SEN2 KBRN VOL. 2",
+      "track": "Friends",
+      "uri": "spotify:track:4rzWmtnly4bVIi6QGUETV0"
+    },
+    {
+      "artist": "Nas",
+      "album": "Magic 2",
+      "track": "Abracadabra",
+      "uri": "spotify:track:67LbGDmNb0vz9RlYZaHQcD"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Exile On Main Street",
+      "track": "Plundered My Soul",
+      "uri": "spotify:track:6rcL4wvmJ36L6o4FKUTnWK"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "album": "Aftermath",
+      "track": "Under My Thumb",
+      "uri": "spotify:track:5lmGgOaixbwKHtpTzjJoqx"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "Positions",
+      "track": "34+35",
+      "uri": "spotify:track:6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "artist": "Feid",
+      "album": "FERXXOCALIPSIS",
+      "track": "LUNA",
+      "uri": "spotify:track:7bywjHOc0wSjGGbj04XbVi"
+    },
+    {
+      "artist": "La Que Faltaba",
+      "album": "Los Mares de la Luna",
+      "track": "Nada Es Casualidad",
+      "uri": "spotify:track:2Mi5Nsp3Jyn8eMo9D5ZNYy"
+    },
+    {
+      "artist": "Los Fundamentalistas del Aire Acondicionado",
+      "album": "Había Una Vez",
+      "track": "Ya Nadie Va a Escuchar Tu Remera - En Vivo, Estadio Único Diego Maradona, La Plata / 8 de Junio 2024",
+      "uri": "spotify:track:2mgwfWpxNQmSLMpkaUhHUs"
+    },
+    {
+      "artist": "The Beatles",
+      "album": "Abbey Road",
+      "track": "Come Together - Remastered 2009",
+      "uri": "spotify:track:2EqlS6tkEnglzr7tkKAAYD"
+    },
+    {
+      "artist": "Divididos",
+      "album": "Acariciando Lo Aspero",
+      "track": "Azulejo",
+      "uri": "spotify:track:2kJhjMoGxoaYEwaI2O5A7K"
+    },
+    {
+      "artist": "Mac Miller",
+      "album": "I Love Life, Thank You",
+      "track": "People Under The Stairs",
+      "uri": "spotify:track:53ZqqUfuVBkuDWc1unoTZ3"
+    },
+    {
+      "artist": "Ronpe 99",
+      "album": "Síntomas",
+      "track": "En la Piel",
+      "uri": "spotify:track:4iBSMD5Ryx4qnW0nLQIwuw"
+    },
+    {
+      "artist": "Eladio Carrion",
+      "album": "3MEN2 KBRN",
+      "track": "Haciendo Dinero",
+      "uri": "spotify:track:76qcIul6DB0y4OPzOMSkNU"
+    },
+    {
+      "artist": "Drake",
+      "album": "Her Loss",
+      "track": "Middle of the Ocean",
+      "uri": "spotify:track:410TZrK18uRjtsTunG14cl"
+    },
+    {
+      "artist": "Black V Neck",
+      "album": "Like Whoa",
+      "track": "Like Whoa",
+      "uri": "spotify:track:6CrNAgxGGcraHZqlbNmSlE"
+    },
+    {
+      "artist": "rusowsky",
+      "album": "no t dejas ver",
+      "track": "no t dejas ver",
+      "uri": "spotify:track:0WuypKBwhryMKSCe4JpERr"
+    },
+    {
+      "artist": "MDE Click",
+      "album": "Memory Lane",
+      "track": "Memory Lane",
+      "uri": "spotify:track:6Ak5Vw3120uVf9gZGPSH59"
+    },
+    {
+      "artist": "Blackchild (ITA)",
+      "album": "Changes",
+      "track": "Changes - Acid Radio Mix",
+      "uri": "spotify:track:60Ypo8vdYPRuJH8QceHmqj"
+    },
+    {
+      "artist": "Drake",
+      "album": "Honestly, Nevermind",
+      "track": "Liability",
+      "uri": "spotify:track:2vy9Ry1TNjCD85TiCbTz0r"
+    },
+    {
+      "artist": "Gordo",
+      "album": "Hombres y Mujeres",
+      "track": "Hombres y Mujeres",
+      "uri": "spotify:track:71L9EZo8OEaZINg75dBUSW"
+    },
+    {
+      "artist": "Lunay",
+      "album": "El Niño",
+      "track": "VUDÚ",
+      "uri": "spotify:track:24YLHalbl2ePQbEXiKqKcP"
+    },
+    {
+      "artist": "Duki",
+      "album": "Desde el Fin del Mundo",
+      "track": "Cascada",
+      "uri": "spotify:track:7pKe9aetI14JCwKBZAEe6a"
+    },
+    {
+      "artist": "Nina Kraviz",
+      "album": "Stranno Stranno Neobjatno",
+      "track": "Dream Machine",
+      "uri": "spotify:track:4cAypK013iEiqKZG5YLrJ3"
+    },
+    {
+      "artist": "KAYTRANADA",
+      "album": "99.9%",
+      "track": "YOU'RE THE ONE",
+      "uri": "spotify:track:70kdJnm1X6eEM8DbWa8Mnc"
+    },
+    {
+      "artist": "Sumo",
+      "album": "Fiebre",
+      "track": "Pinini Reggae",
+      "uri": "spotify:track:07EmSBY7syIism45UtBPZa"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Shoot For The Stars Aim For The Moon",
+      "track": "Something Special",
+      "uri": "spotify:track:5kkaSMcf4BFlhRRICCKZb6"
+    },
+    {
+      "artist": "Dj Guuga",
+      "album": "Os 4 Cara Que a Bandida Se Amarra",
+      "track": "Os 4 Cara Que a Bandida Se Amarra",
+      "uri": "spotify:track:2Mb5oEog9TuVRIamznW0Tr"
+    },
+    {
+      "artist": "Daveartt",
+      "album": "Yo Quiero Una Nena",
+      "track": "Yo Quiero Una Nena",
+      "uri": "spotify:track:66W9jaa1EQtoLJ57YfDq8a"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Los Piojos",
+      "album": "Ritual Piojoso (En Vivo en River Plate)",
+      "uri": "spotify:album:7v7UBXatukF69a99XWjjX6"
+    },
+    {
+      "artist": "Los Piojos",
+      "album": "Verde Paisaje del Infierno",
+      "uri": "spotify:album:0i2Y8YNiC3oQDFIsgWI3cP"
+    },
+    {
+      "artist": "Los Piojos",
+      "album": "Ay Ay Ay",
+      "uri": "spotify:album:5kgCug9cl7cMJ5BY3wigRK"
+    }
+  ],
+  "shows": [
+    {
+      "name": "El Método Rebord",
+      "publisher": "Corta.",
+      "uri": "spotify:show:2w7n7juiGdvXemCEbYW0qk"
+    }
+  ],
+  "episodes": [
+    {
+      "name": "Consultorio para hijes de Mapapis Progres - Episodio 13",
+      "show": "Caricias Significativas",
+      "uri": "spotify:episode:1ytBGXECfNDNmspkfZkj9X"
+    },
+    {
+      "name": "Consultorio para hijes de Mapapis Progres - Episodio 17",
+      "show": "Caricias Significativas",
+      "uri": "spotify:episode:14rvyS1xfOCdFhmkShPJhs"
+    },
+    {
+      "name": "Matías Kulfas en Industria, Modelo Para Armar - Con Leandro Mora Alfonsín",
+      "show": "Modelo Para Armar",
+      "uri": "spotify:episode:1MxhtrERK9Q4K2YvEbGnks"
+    },
+    {
+      "name": "#ParenLaMano Completo - 20/10 FT. EL BANANERO | Vorterix",
+      "show": "Paren La Mano",
+      "uri": "spotify:episode:0VrhWLMOiJIHHlJQuFSdta"
+    },
+    {
+      "name": "#ParenLaMano Completo - 07/10 | Vorterix",
+      "show": "Paren La Mano",
+      "uri": "spotify:episode:09wGGm6l7zvSiWPaKGS8UI"
+    },
+    {
+      "name": "Episodio 6: El Mundo Sin Diego",
+      "show": "Los Últimos Días de Maradona",
+      "uri": "spotify:episode:5gK2JMjx0UoOMYUNn7JoHN"
+    },
+    {
+      "name": "Episodio 5: La Internación",
+      "show": "Los Últimos Días de Maradona",
+      "uri": "spotify:episode:1WgbmwidfI97vCH5uyUkKX"
+    },
+    {
+      "name": "Sobrevivirla - Carlitos Páez Vilaró",
+      "show": "La Cruda",
+      "uri": "spotify:episode:3f5JkCLie4GqEzRm71bA78"
+    },
+    {
+      "name": "Dictadura militar - Mantecol Ayala",
+      "show": "La Cruda",
+      "uri": "spotify:episode:1sCyKToOUYNGhspTWnNt1T"
+    },
+    {
+      "name": "Trata - Alika Kinan",
+      "show": "La Cruda",
+      "uri": "spotify:episode:3VCuntMfp8nMxJHT10gzzV"
+    },
+    {
+      "name": "Ep457_B: Fútbol; Premio Abel; Enanas Blancas; Maldacena y Cosmología Cuántica",
+      "show": "Coffee Break: Señal y Ruido",
+      "uri": "spotify:episode:3HlRGi9SkAbLqPwIpotUec"
+    },
+    {
+      "name": "Cónclave #1 - Carlos Maslatón e Iván Schargrodsky",
+      "show": "El Método Rebord",
+      "uri": "spotify:episode:1CFjmXQIGtYVKkYWzM4ZrU"
+    },
+    {
+      "name": "Episodio 8 - Regina Probationum",
+      "show": "Frente al Asesino",
+      "uri": "spotify:episode:1EoMtgHt7cVe1W6cbXz7g0"
+    },
+    {
+      "name": "Episodio 10 - Los Juicios Finales: Parte II",
+      "show": "Frente al Asesino",
+      "uri": "spotify:episode:2kYJazbWWxylfRY9cJxuJo"
+    },
+    {
+      "name": "Episodio 9 -  Los juicios finales: Parte I",
+      "show": "Frente al Asesino",
+      "uri": "spotify:episode:4dxpnkpj9t1AKNd7BQesoC"
+    },
+    {
+      "name": "EP. 12 Peronismo 4.0 - Matias Kulfas ",
+      "show": "DESARROLLE - Conversaciones para pensar la Argentina ",
+      "uri": "spotify:episode:2H4Yw75NeUIAlzZYqj8e6c"
+    },
+    {
+      "name": "#142 Pablo Groisman, la matemática y la ciencia de datos",
+      "show": "Aprender de Grandes",
+      "uri": "spotify:episode:3HeMoJXyhn5zVgnk6D4J7K"
+    },
+    {
+      "name": "Emiliano Brancciari: \"Con NTVG logramos algo casi imposible como vivir de la música\"",
+      "show": "Caja Negra",
+      "uri": "spotify:episode:3VP89ubMSPEoNhpIvQMeQW"
+    }
+  ],
+  "bannedTracks": [
+    {
+      "artist": "Mir Nicolas",
+      "album": "Voyager 1",
+      "track": "Voyager 1",
+      "uri": "spotify:track:2ikJwv3G7cyCUDk6vcCUjH"
+    },
+    {
+      "artist": "Lego Skillz",
+      "album": "Papiroflexia",
+      "track": "Papiroflexia",
+      "uri": "spotify:track:37EqUzoynZal3nnocnTzPP"
+    },
+    {
+      "artist": "Brapis",
+      "album": "Hit o Nada",
+      "track": "Hit o Nada",
+      "uri": "spotify:track:0cdZtTvXfrKyesvhbh8ipu"
+    }
+  ],
+  "artists": [
+    {
+      "name": "Don Osvaldo",
+      "uri": "spotify:artist:09dpFW4ZcLR3GjeG7GOJR8"
+    },
+    {
+      "name": "Drake",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "name": "Los Piojos",
+      "uri": "spotify:artist:0SnyKkoyBaB2fG8IJH4xmU"
+    },
+    {
+      "name": "Sumo",
+      "uri": "spotify:artist:10AzTrYMPVVmpKoBP5bX9W"
+    },
+    {
+      "name": "T&K",
+      "uri": "spotify:artist:62zZb3lpCFBqLDjMccQgND"
+    }
+  ],
+  "bannedArtists": [
+    {
+      "name": "La Beriso",
+      "uri": "spotify:artist:0Dy32zfSrQ332Bz8wsthKJ"
+    },
+    {
+      "name": "Playboi Carti",
+      "uri": "spotify:artist:699OTQXzgjhIYAHMy9RyPD"
+    }
+  ],
+  "other": [
+    "spotify:local:::AUD-20201220-WA0289:51",
+    "spotify:local:::AUD-20201106-WA0014:118",
+    "spotify:local:::AUD-20201103-WA0037:124",
+    "spotify:local:::Voz+040:60",
+    "spotify:local:::Voz+034:48",
+    "spotify:local:::AUD-20201220-WA0314:193"
+  ]
+}

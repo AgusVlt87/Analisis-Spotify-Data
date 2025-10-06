@@ -1,0 +1,136 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 462,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:0SnyKkoyBaB2fG8IJH4xmU"
+      },
+      {
+        "artistUri": "spotify:artist:6ZIgPKHzpcswB8zh7sRIhx"
+      },
+      {
+        "artistUri": "spotify:artist:2osoVujXgV0PA8lhqDKYFw"
+      },
+      {
+        "artistUri": "spotify:artist:6byQKddO1b34lXC2ZEjehQ"
+      },
+      {
+        "artistUri": "spotify:artist:30fEdZPXgWfC4sNttcyB3C"
+      }
+    ],
+    "topArtistMilliseconds": 663319073,
+    "topArtistFanPercentage": 6.7402136E-5
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+      "spotify:show:7v3U6D0q6xDp6vBaoceNEC",
+      "spotify:show:4H6PUb05WMeyu5oFljVNks",
+      "spotify:show:3Kv1yl0tCt1JDpD0AxtxZ7"
+    ],
+    "topPodcastMilliseconds": 10081669,
+    "topPodcastPercentage": 0.0,
+    "totalPodcastMilliseconds": 52030608
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:4EElmJjGjxscJ16DMpvgPV",
+      "spotify:track:3xFOPj0V6S4v2b3CH0Llvf",
+      "spotify:track:5fHZxeU2UHjNRGVyWs4Pin",
+      "spotify:track:51zxaEvhi5BiZtYG9juArq",
+      "spotify:track:4SkueS9fbtgYwoaDavSr1p"
+    ],
+    "topTrackPlayCount": 67,
+    "topTrackFirstPlayedDate": "2024-01-06",
+    "distinctTracksPlayed": 1920
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 1632098933,
+    "mostListenedDay": "2024-09-15",
+    "mostListenedDayMinutes": 404.73047,
+    "percentGreaterThanWorldwideUsers": 87.32236
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 1,
+        "color": "red",
+        "genre": "reggaeton",
+        "mood": "heatwave",
+        "descriptor": "sad trap",
+        "pivotalArtists": [
+          "spotify:artist:2LRoIwlKmHjgvigdNGBHNo",
+          "spotify:artist:7iK8PXO48WeuP03g8YR51W",
+          "spotify:artist:2cPqdH7XMvwaBJEVjheH8g"
+        ],
+        "tracks": [
+          {
+            "trackName": "EL CUARTO DE FERXXO",
+            "trackUri": "spotify:track:1WBwck9KqWfe6mr2j06UEM"
+          },
+          {
+            "trackName": "XX",
+            "trackUri": "spotify:track:7BgIcfAlmUNW6IABxVJcT2"
+          },
+          {
+            "trackName": "HOOKIA",
+            "trackUri": "spotify:track:1WgyA7SYEzPRZkig3q1b0j"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 2,
+        "color": "blue",
+        "genre": "r&b",
+        "mood": "chill",
+        "pivotalArtists": [
+          "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP",
+          "spotify:artist:3tlXnStJ1fFhdScmQeLpuG",
+          "spotify:artist:687cZJR45JO7jhk1LHIbgq"
+        ],
+        "tracks": [
+          {
+            "trackName": "Infrunami",
+            "trackUri": "spotify:track:0f8eRy9A0n6zXpKSHSCAEp"
+          },
+          {
+            "trackName": "Love Galore (feat. Travis Scott)",
+            "trackUri": "spotify:track:0q75NwOoFiARAVp4EXU4Bs"
+          },
+          {
+            "trackName": "Higher",
+            "trackUri": "spotify:track:2QdSb68BzZGMgCbsrFmSLc"
+          }
+        ]
+      },
+      {
+        "key": "2",
+        "peakMonth": 6,
+        "color": "yellow-blue",
+        "genre": "argentine rock",
+        "mood": "theatrical",
+        "descriptor": "ritual",
+        "pivotalArtists": [
+          "spotify:artist:0SnyKkoyBaB2fG8IJH4xmU",
+          "spotify:artist:6ZIgPKHzpcswB8zh7sRIhx",
+          "spotify:artist:6byQKddO1b34lXC2ZEjehQ"
+        ],
+        "tracks": [
+          {
+            "trackName": "Arco",
+            "trackUri": "spotify:track:4EElmJjGjxscJ16DMpvgPV"
+          },
+          {
+            "trackName": "Te Diría",
+            "trackUri": "spotify:track:3xFOPj0V6S4v2b3CH0Llvf"
+          },
+          {
+            "trackName": "Buenos Tiempos",
+            "trackUri": "spotify:track:5fHZxeU2UHjNRGVyWs4Pin"
+          }
+        ]
+      }
+    ]
+  }
+}
